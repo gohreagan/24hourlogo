@@ -1,10 +1,10 @@
 {
   "settings": {
-    "name": "logo service",
+    "name": "Reagan Goh",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 46,
-    "versionPublish": "4.0.16",
+    "versionPublish": "4.0.17",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,9 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Users/gohreagan/Documents/GitHub/24logoservice"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
